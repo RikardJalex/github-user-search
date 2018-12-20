@@ -1,0 +1,22 @@
+.main {
+  
+    padding: 80px;
+}
+
+body {
+    background-color: rgb(240, 240, 240);
+    background-image: url("backgroundimg.png");
+}
+
+p, h5, ::placeholder, .btn, span, a {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#searchButton {
+    padding: 10px;
+    width: 80px;
+}
+
+
+
+
